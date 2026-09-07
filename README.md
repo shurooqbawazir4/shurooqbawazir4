@@ -2,7 +2,7 @@
 
 # Shurooq Bawazir
 
-### Computer Science | Artificial Intelligence & Data Science
+### Specializing in Artificial Intelligence and Data Science
 
 Building practical, human-centered AI systems across **LLMs, intelligent agents, machine learning, computer vision, and data analytics**.
 
