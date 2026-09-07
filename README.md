@@ -27,22 +27,9 @@ Building practical, human-centered AI systems across **LLMs, intelligent agents,
 - **FOCAL - Privacy-Preserving Classroom Analytics**  
   Full-stack computer vision platform that measures classroom attention in real time and delivers insights through interactive dashboards and automated reports. Presented at the **ICSDI 2026 Conference**.
 
-- **SignCare - AI Healthcare Accessibility**  
-  Real-time AI system that converts doctors' speech into 3D sign language, enabling more inclusive healthcare for deaf and hard-of-hearing patients.
-
 - **[DeepLeaf - Published CNN Research](https://shurooqbawazir4.github.io/My-portfolio/assets/DeepLeaf_paper.pdf)**  
   CNN-based automated leaf-classification research published in the **European Scientific Journal** and presented at a STEM conference.
 
-## Experience Highlights
-
-- **Artificial Intelligence Intern - Cloud Solutions**  
-  Built LLM and NLP solutions for hospital feedback analytics, safe SQL generation, similarity search, and reranking.
-
-- **Data Science Intern - Uptrail**  
-  Applied data preprocessing, statistical analysis, and machine learning to support data-driven decisions.
-
-- **Computer Vision Intern - RIOTU Lab**  
-  Developed a real-time classroom attention-scoring system and contributed to research-driven AI projects.
 
 ## Technologies
 
