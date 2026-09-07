@@ -54,7 +54,7 @@ Building practical, human-centered AI systems across **LLMs, intelligent agents,
 - 🥈 **2nd Place - ACM AI Hackathon**, SignCare
 - ⭐ **Top 50 - SCAI AI League**, selected among 1,000+ projects
 - 🥈 **2nd Place - WiDS Datathon 2024**
-- 🎓 **Merit-Based Scholarship**, selected among 800+ applicants
+
 
 ---
 
