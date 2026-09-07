@@ -2,7 +2,7 @@
 
 # Shurooq Bawazir
 
-### Computer Science Graduate | Artificial Intelligence & Data Science
+### Computer Science| Artificial Intelligence & Data Science
 
 Building practical, human-centered AI systems across **LLMs, intelligent agents, machine learning, computer vision, and data analytics**.
 
@@ -14,11 +14,7 @@ Building practical, human-centered AI systems across **LLMs, intelligent agents,
 
 ---
 
-## About
 
-Computer Science graduate from **Prince Sultan University**, specializing in **Artificial Intelligence and Data Science**. Graduated with **First-Class Honors**, a **3.83/4.00 GPA**, and a **98% General Aptitude Test score**.
-
-Hands-on experience developing AI-powered solutions using **LLMs, NLP, RAG, embeddings, APIs, data pipelines, machine learning, computer vision, and full-stack technologies**. Focused on transforming complex ideas into reliable, accessible, and real-world applications.
 
 ## Featured Projects
 
